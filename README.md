@@ -8,7 +8,7 @@ Merhaba sizi aptal botçular, bazı aptal botçu arkadaşlarımız sistemin sade
 vereceğim altyapı ile gidip kendi kafanızdan geçen sistemleri oluşturabilirsiniz, sadece temelleri vererek basit bir bot oluşturdum sizlere.
 hepinize kolay gelsin andaval botcu kardeslerim.
 
-> Sadece /config.json/ kanalında boş bırakılan yerleri uygun doldurun yeterli olacaktır.
+> Sadece /config.json/ kanalında boş bırakılan yerleri uygun doldurun yeterli olacaktır , bide npm i yazarak tüm modülleri indir
 
 
 ![ekran6](https://user-images.githubusercontent.com/117478535/205148108-8b8e3473-8c50-4484-82dc-ebe9b7d99bc5.PNG)
