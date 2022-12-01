@@ -2,7 +2,7 @@
 Discord v13 Gelişmiş İstek/Öneri/Şikayet Bot Altyapısıdır. Modal Sistemi İle Oluşturulmuştur.
 
 
-# SELAM DOOOOSSSTLAR YENİ SİSTEMLE SİZİNLE BERABERİZ
+# SELAM DOOOOSSSTLAR YENİ SİSTEMLE SİZİNLE BERABERİZ , STAR ATIN YAVRULARIM
 
 Merhaba sizi aptal botçular, bazı aptal botçu arkadaşlarımız sistemin sadece kendilerine özel olduğunu düşünüp götlerini kaldırmışlar ,
 vereceğim altyapı ile gidip kendi kafanızdan geçen sistemleri oluşturabilirsiniz, sadece temelleri vererek basit bir bot oluşturdum sizlere.
