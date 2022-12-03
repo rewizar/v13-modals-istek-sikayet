@@ -1,4 +1,4 @@
-# v13-gelismis-istek--ikayet
+# v13-gelismis-istek-sikayet
 Discord v13 Gelişmiş İstek/Öneri/Şikayet Bot Altyapısıdır. Modals Sistemi İle Oluşturulmuştur.
 
 
